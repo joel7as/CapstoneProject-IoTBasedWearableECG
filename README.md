@@ -1,2 +1,7 @@
 # CapstoneProject-IoTBasedWearableECG
 This repository contains the codes used in designing an IoT-based wearable electrocardiogram(ECG) which served as my final capstone project.
+
+
+Abstract
+
+An electrocardiogram is a recording of the electrical activity of the heart. It is a crucial technology for the early detection and diagnosis of heart-related issues such as heart arrhythmia and other abnormalities in the heart. Most ECG machines, both the handheld single lead devices and standard 12 lead ECGs found in hospitals make use of adhesive gel electrodes which are uncomfortable for long periods among other issues. These devices are also quite expensive for the average Ghanaian. The standard ECGs found in hospitals also lack remote capability and the ability to transfer and store results instantly over the internet. This project explores the design of a wearable, low-cost, IoT device that will cater to each of these limitations. Textile electrodes sewn into a shirt are used in place of the gel electrodes to avoid irritability and the wearing off of electrodes in long-term usage. A design based on a low-cost microcontroller, the esp8266 together with other circuit components is employed to ensure the system is affordable and has remote capability. Digital processing techniques are also implemented both in real-time and through post-processing in MATLAB to provide alternative means of processing the signal from the electrodes. 
